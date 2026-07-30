@@ -2,7 +2,11 @@ import { test, expect } from '@playwright/test';
 
 var cocktail = "margarita"
 
-test('Margarita API', async ({ request }) => {
+test('Margarita API', async ({ request }, testInfo) => {
+  testInfo.annotations.push({
+    type: 'TestCase',
+    description: 'TC-45188',
+  });
   const response = await request.get(
     `https://www.thecocktaildb.com/api/json/v1/1/search.php?s=${cocktail}`
   );
