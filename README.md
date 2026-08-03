@@ -8,5 +8,5 @@ This repository's aim is to get familiarized with the Playwright testing library
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?logo=github&logoColor=white)
 <br><b>TestQuality</b> - used as a test management tool -> https://web.testquality.com/site/simona.vel719/project/35374/tests?folderId=795876&testId=721860 <br>
-<b>GitHub Actions</b> - used for CI/CD <br>
-<b>GitHub Projects</b> - used for workflow planning and tracking<br>
+<b>GitHub Actions</b> - used for CI/CD -> https://github.com/SimonaVel/playwrightExperiment/actions <br>
+<b>GitHub Projects</b> - used for workflow planning and tracking -> https://github.com/users/SimonaVel/projects/6/views/3 <br> 
